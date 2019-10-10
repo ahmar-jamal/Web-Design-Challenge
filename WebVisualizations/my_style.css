@@ -1,11 +1,22 @@
 .box {
-  background-color: beige
+  background-color: white;
+}
+
+.cont{
+  background-color: rgb(237, 237, 237);
 }
 
 .foot {
   position: absolute;
   bottom: 0;
-  width:100%
+  width:100%;
+}
+
+.foot2{
+   border-top-width: 8px;
+   border-top-style: solid;
+   border-top-color: rgb(31, 172, 165);
+
 }
 
 
